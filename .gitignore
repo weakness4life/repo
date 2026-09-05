@@ -1,0 +1,34 @@
+# Go
+
+# Binaries
+bin/
+
+# Vendor
+vendor/
+
+# Go workspace
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+UserSettings/
+MemoryCaptures/
+
+# Visual Studio / Rider
+.vscode/
+*.sln
+*.csproj
+*.pidb
+*.userprefs
+
+# Others
+.DS_Store
+*.apk
+*.aab
+
